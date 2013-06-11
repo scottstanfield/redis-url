@@ -1,7 +1,7 @@
 {
   "name": "redis-url",
-  "version": "0.0.1",
-  "description": "Use a REDIS_URL to connect to Redis",
+  "version": "0.0.2",
+  "description": "Use a REDISTOGO_URL to connect to Redis",
   "author": "David Dollar <ddollar@gmail.com>",
   "main": "./index.js",
   "dependencies": { "redis": ">= 0.0.1" }
